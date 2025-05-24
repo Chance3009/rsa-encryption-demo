@@ -1,5 +1,3 @@
-# RSA logic
-
 import sympy
 import random
 
